@@ -1,0 +1,7 @@
+The University of Example was founded in 1950. It has three main campuses: North, South, and East.
+
+The Computer Science department is located on the North campus and offers degrees in Software Engineering, Data Science, and Cybersecurity.
+
+Admission to the Computer Science program requires a minimum GPA of 3.0 and completion of introductory mathematics courses including Calculus I and Discrete Mathematics.
+
+The university's library is open 24 hours during exam weeks and offers free tutoring services for first-year students in the Learning Center on the second floor.
